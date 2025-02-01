@@ -1,2 +1,3 @@
 # 90DaySprint
-A 90Day long sprint for your preparation and cracking your next opportunities.  An initiative by Sandip :)
+A 90Day long sprint for my preparations 
+Starting from a mini project and a new DS
